@@ -7,9 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SkdApplication {
 
 	public static void main(String[] args) {
-		subrat kumar behera
-			sahadeba behera
-			prativa behera
+		String name = "mike";
+		int x =100;
+		int y = 200;
+		double z = 10.3;
 		SpringApplication.run(SkdApplication.class, args);
 	}
 
