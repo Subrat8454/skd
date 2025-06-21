@@ -12,6 +12,7 @@ public class SkdApplication {
 		int y = 200;
 		double z = 10.3;
 		boolean isPresent=false;
+		float m = 10.3f;
 		SpringApplication.run(SkdApplication.class, args);
 	}
 
