@@ -7,6 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SkdApplication {
 
 	public static void main(String[] args) {
+		String name = "mike";
+		int x =100;
+		boolean isPresent=false;
 		SpringApplication.run(SkdApplication.class, args);
 	}
 
