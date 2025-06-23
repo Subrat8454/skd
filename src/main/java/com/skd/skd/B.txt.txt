@@ -8,3 +8,6 @@ java developer
 
 class B{
 class C{
+
+class K{
+}
